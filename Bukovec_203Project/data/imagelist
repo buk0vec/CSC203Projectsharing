@@ -1,0 +1,30 @@
+atlantis images/chest1.bmp 255 255 255 0
+atlantis images/chest2.bmp
+vileplume images/vileplume1.bmp 255 255 255 128
+vileplume images/vileplume2.bmp 255 255 255 128
+sea images/sea.bmp 255 255 255 0
+grass images/grasstile.bmp 255 255 255 0
+octo images/bulbasaur1.bmp 255 255 255 0
+octo images/bulbasaur2.bmp 255 255 255 0
+obstacle images/rockobst.bmp
+fish images/berries.bmp 255 255 255 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+pathmaker images/pathmaker1.png 255 255 255 0
+pathmaker images/pathmaker2.png
+dirt images/dirtBlock.png
+dirtpath images/dirtpath.bmp
+bulbaeater images/bulbaeater1.bmp 255 255 255 0
+bulbaeater images/bulbaeater2.bmp
+path images/path.bmp
+seaGrass images/burger.png 255 255 255 0
+player images/player1.bmp 255 255 255 0
+player images/player2.bmp
+player images/player3.bmp
+player images/player4.bmp
+player images/player5.bmp
+background_default images/none.bmp
